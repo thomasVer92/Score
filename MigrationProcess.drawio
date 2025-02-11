@@ -226,7 +226,7 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-102" value="Epic ticket for the client in status &quot;To IT design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="2010" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-104" value="&amp;nbsp;Story ticket in status &quot;new&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-104" value="&amp;nbsp;Story ticket &quot;Backend setup&quot; in status &quot;new&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="2170" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.525;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#B3FF66;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-100" target="JK_t3SRdudCWYbcd_Vwk-104">
@@ -268,10 +268,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-123" value="Copy existing testplan for the processes and create these in Jira for this client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="2620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-104" target="JK_t3SRdudCWYbcd_Vwk-130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-125" value="Testplan ticket in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2310" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="2620" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-123" target="JK_t3SRdudCWYbcd_Vwk-125">
           <mxGeometry relative="1" as="geometry" />
@@ -280,10 +283,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-127" value="Testplan of existing processes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2310" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="2620" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-130" value="Sprint planning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="2550" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="2860" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
