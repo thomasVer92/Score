@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Pagina-1" id="MSs8Dhvhf93qKQDW9ePJ">
-    <mxGraphModel dx="4974" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="34434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="33000" pageHeight="46810" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,6 +288,11 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-127" value="Testplan of existing processes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="2620" y="420" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3040" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-130" value="Sprint planning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="2860" y="290" width="120" height="60" as="geometry" />
         </mxCell>
@@ -321,8 +326,20 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-143" value="Testplan ticket in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="2340" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-148" value="Sprint planning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="3060" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-151" value="Development" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-152" value="Epic ticket for the client in status &quot;In Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="3040" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-154" value="Epic ticket for the client + process in status &quot;In Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="3040" y="410" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
