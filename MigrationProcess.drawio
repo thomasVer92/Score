@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Pagina-1" id="MSs8Dhvhf93qKQDW9ePJ">
-    <mxGraphModel dx="4734" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4987" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,9 +123,6 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-63" value="Updated overview of processes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-68" value="Change status of client epic to &quot;Collect&lt;br/&gt;requirements&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-83" target="JK_t3SRdudCWYbcd_Vwk-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -211,8 +208,10 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-114" value="Questions or adjustment relevant for BU?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-119" target="JK_t3SRdudCWYbcd_Vwk-68">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-119" target="JK_t3SRdudCWYbcd_Vwk-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-119" value="Plan follow up with BU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="640" width="120" height="60" as="geometry" />
@@ -393,8 +392,10 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-69" value="Epic ticket for the client in status &quot;Collect&lt;br&gt;requirements&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
           <mxGeometry x="760" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-68" target="JK_t3SRdudCWYbcd_Vwk-69">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-62" target="JK_t3SRdudCWYbcd_Vwk-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="350" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-56" value="Epic ticket for the client in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
           <mxGeometry x="80" y="410" width="120" height="80" as="geometry" />
