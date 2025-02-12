@@ -389,17 +389,6 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-298" value="Existing Initiative Jira ticket in Status&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Done&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-267">
           <mxGeometry x="5480" y="140" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-267" source="JK_t3SRdudCWYbcd_Vwk-298">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="5540" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="5600" y="170" />
-              <mxPoint x="5620" y="170" />
-              <mxPoint x="5620" y="265" />
-              <mxPoint x="5540" y="265" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-277" value="Epic" parent="0" visible="0" />
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-91" target="JK_t3SRdudCWYbcd_Vwk-95">
           <mxGeometry relative="1" as="geometry" />
@@ -705,6 +694,9 @@
           <mxGeometry x="2780" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-296" source="JK_t3SRdudCWYbcd_Vwk-142" target="JK_t3SRdudCWYbcd_Vwk-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-296" source="JK_t3SRdudCWYbcd_Vwk-301" target="JK_t3SRdudCWYbcd_Vwk-298">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
