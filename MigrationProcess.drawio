@@ -229,9 +229,6 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-123" value="Copy existing testplan for the processes and create these in Jira for this client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2960" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.117;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-104" target="JK_t3SRdudCWYbcd_Vwk-130">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-125" value="Testplan ticket in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="2960" y="130" width="120" height="80" as="geometry" />
         </mxCell>
