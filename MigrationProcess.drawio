@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Pagina-1" id="MSs8Dhvhf93qKQDW9ePJ">
-    <mxGraphModel dx="5349" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="5690" dy="1230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -680,6 +680,32 @@
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-296" source="JK_t3SRdudCWYbcd_Vwk-142" target="JK_t3SRdudCWYbcd_Vwk-143">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-296" source="JK_t3SRdudCWYbcd_Vwk-298">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5540" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5600" y="170" />
+              <mxPoint x="5620" y="170" />
+              <mxPoint x="5620" y="265" />
+              <mxPoint x="5540" y="265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-298" value="Existing Initiative Jira ticket in Status&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Done&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-296">
+          <mxGeometry x="5480" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-296" source="JK_t3SRdudCWYbcd_Vwk-299" target="JK_t3SRdudCWYbcd_Vwk-301">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-299" value="Site fully migrated?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-296">
+          <mxGeometry x="5300" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-296" source="JK_t3SRdudCWYbcd_Vwk-249" target="JK_t3SRdudCWYbcd_Vwk-299">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-301" value="&lt;div&gt;Change status&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Initiative to Done&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-296">
+          <mxGeometry x="5440" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
