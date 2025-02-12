@@ -35,8 +35,15 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-13" value="Process flow of screens of Process&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-18" value="Initiative jira ticket in Status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="-110" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-20" target="JK_t3SRdudCWYbcd_Vwk-18">
           <mxGeometry relative="1" as="geometry" />
@@ -75,9 +82,6 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.592;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-8" target="JK_t3SRdudCWYbcd_Vwk-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-50" target="JK_t3SRdudCWYbcd_Vwk-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-50" target="JK_t3SRdudCWYbcd_Vwk-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -107,9 +111,6 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-38" value="Define overview of potential processes and update kick-off presentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-56" value="Epic ticket for the client in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="80" y="410" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-62" target="JK_t3SRdudCWYbcd_Vwk-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -122,35 +123,8 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-63" value="Updated overview of processes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-68" target="JK_t3SRdudCWYbcd_Vwk-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-68" value="Change status of client epic to &quot;Collect&lt;br/&gt;requirements&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-69" value="Epic ticket for the client in status &quot;Collect&lt;br&gt;requirements&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="760" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-74" target="JK_t3SRdudCWYbcd_Vwk-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="150" />
-              <mxPoint x="220" y="150" />
-              <mxPoint x="220" y="245" />
-              <mxPoint x="140" y="245" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-74" value="Existing Initiative Jira ticket in Status&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;In progress&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="JK_t3SRdudCWYbcd_Vwk-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1180" y="350" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-79" value="Epic ticket for the client in status &quot;To IT Design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1120" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-83" target="JK_t3SRdudCWYbcd_Vwk-86">
           <mxGeometry relative="1" as="geometry" />
@@ -199,12 +173,6 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-91" value="Take ticket into IT design by change status of epic ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-95" value="Epic ticket for the client in status &quot;In IT design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1650" y="130" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-91" target="JK_t3SRdudCWYbcd_Vwk-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-98" target="JK_t3SRdudCWYbcd_Vwk-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -214,17 +182,11 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-98" value="Client would be full roll-out?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-100" target="JK_t3SRdudCWYbcd_Vwk-102">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-100" target="JK_t3SRdudCWYbcd_Vwk-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-100" value="Creation of Story ticket &quot;Backend setup&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2010" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-102" value="Epic ticket for the client in status &quot;To IT Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2010" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-104" value="&amp;nbsp;Story ticket &quot;Backend setup&quot; in status &quot;new&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="2170" y="130" width="120" height="80" as="geometry" />
@@ -238,17 +200,11 @@
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-106" value="At least one new or adjusted process?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-108" target="JK_t3SRdudCWYbcd_Vwk-109">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-108" target="JK_t3SRdudCWYbcd_Vwk-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-108" value="Creation of Epic ticket for every to be adjusted process next to Client epic ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2010" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-109" value="Epic ticket for the client + process in status &quot;In IT design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2010" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-114" target="JK_t3SRdudCWYbcd_Vwk-119">
           <mxGeometry relative="1" as="geometry" />
@@ -271,13 +227,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-123" value="Copy existing testplan for the processes and create these in Jira for this client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2620" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="2960" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-104" target="JK_t3SRdudCWYbcd_Vwk-130">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.117;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-104" target="JK_t3SRdudCWYbcd_Vwk-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-125" value="Testplan ticket in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2620" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="2960" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-123" target="JK_t3SRdudCWYbcd_Vwk-125">
           <mxGeometry relative="1" as="geometry" />
@@ -286,61 +242,445 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-127" value="Testplan of existing processes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2620" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="2960" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-130">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3040" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-130" value="Sprint planning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="2860" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-136" target="JK_t3SRdudCWYbcd_Vwk-140">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-130" target="JK_t3SRdudCWYbcd_Vwk-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-136" target="JK_t3SRdudCWYbcd_Vwk-142">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-130" value="Sprint planning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-136" target="JK_t3SRdudCWYbcd_Vwk-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-136" value="Create IT Design for new or adjusted proces" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-140" value="Epic ticket for the client + process in status &quot;To IT development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2180" y="530" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-142" target="JK_t3SRdudCWYbcd_Vwk-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-142" target="JK_t3SRdudCWYbcd_Vwk-130">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-142" target="JK_t3SRdudCWYbcd_Vwk-130">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2530" y="460" />
-              <mxPoint x="2530" y="510" />
-              <mxPoint x="2920" y="510" />
+              <mxPoint x="3140" y="460" />
+              <mxPoint x="3140" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-142" value="Create testcases for new or adjusted process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2340" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="2780" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-143" value="Testplan ticket in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="2340" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="2780" y="530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-152">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-154">
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-160">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3470" y="260" />
+              <mxPoint x="3560" y="260" />
+              <mxPoint x="3560" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.167;exitY=1.05;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-185">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JK_t3SRdudCWYbcd_Vwk-151" value="Development" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="3040" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="3380" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-152" value="Epic ticket for the client in status &quot;In Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="3040" y="160" width="120" height="80" as="geometry" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-157" target="JK_t3SRdudCWYbcd_Vwk-199">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JK_t3SRdudCWYbcd_Vwk-154" value="Epic ticket for the client + process in status &quot;In Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="3040" y="410" width="120" height="80" as="geometry" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-157" value="DAT testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3830" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-159" value="Testplan ticket in status &quot;In progress&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="3630" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-160" value="&amp;nbsp;Story ticket &quot;Backend setup&quot; in status &quot;Ready for release&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="3380" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-162" value="&amp;nbsp;Story ticket &quot;Backend setup&quot; in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="2480" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-163" target="JK_t3SRdudCWYbcd_Vwk-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-163" target="JK_t3SRdudCWYbcd_Vwk-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-163" value="Creation of backend story ticket&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-168" target="JK_t3SRdudCWYbcd_Vwk-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-172" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JK_t3SRdudCWYbcd_Vwk-170">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-168" target="JK_t3SRdudCWYbcd_Vwk-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-181" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JK_t3SRdudCWYbcd_Vwk-180">
+          <mxGeometry x="-0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-168" value="Backend changes only?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-173" value="&amp;nbsp;Story ticket &quot;Front end setup&quot; in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="2320" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-174" target="JK_t3SRdudCWYbcd_Vwk-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-174" target="JK_t3SRdudCWYbcd_Vwk-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-174" value="Creation Front end story ticket&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-185" value="&amp;nbsp;Story ticket &quot;Front end&quot; in status &quot;Ready for release&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="3420" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-191" target="JK_t3SRdudCWYbcd_Vwk-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3650" y="250" />
+              <mxPoint x="3610" y="250" />
+              <mxPoint x="3610" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-191" value="Test planning DAT" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="3620" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-199" target="JK_t3SRdudCWYbcd_Vwk-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-199" target="JK_t3SRdudCWYbcd_Vwk-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-199" value="Testing successfull?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4010" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-202" target="JK_t3SRdudCWYbcd_Vwk-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-202" value="Test planning Key users" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="4340" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-206" target="JK_t3SRdudCWYbcd_Vwk-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-206" target="JK_t3SRdudCWYbcd_Vwk-214">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-206" value="Create bug ticket update epic status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-208" value="Bug ticket with status &quot;Waiting for support&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FF3333,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="4120" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-214" target="JK_t3SRdudCWYbcd_Vwk-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-214" target="JK_t3SRdudCWYbcd_Vwk-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-214" value="Evaluate bug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4240" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-220" target="JK_t3SRdudCWYbcd_Vwk-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4780" y="680" />
+              <mxPoint x="4780" y="520" />
+              <mxPoint x="3890" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-259" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-220" target="JK_t3SRdudCWYbcd_Vwk-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-220" value="Fix Bug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4470" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-228" target="JK_t3SRdudCWYbcd_Vwk-242">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-228" value="Key user testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-242" target="JK_t3SRdudCWYbcd_Vwk-244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-242" target="JK_t3SRdudCWYbcd_Vwk-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-242" target="JK_t3SRdudCWYbcd_Vwk-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-242" value="Testing successfull?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4730" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JK_t3SRdudCWYbcd_Vwk-244" target="JK_t3SRdudCWYbcd_Vwk-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-244" value="Release planning" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="4920" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-249" value="Go live" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-256" value="Bug ticket with status &quot;In progress&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FF3333,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="4370" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-257" value="Bug ticket with status &quot;Ready to test&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FF3333,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="4580" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-260" value="Bug ticket with status &quot;In test&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FF3333,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="4240" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-261" value="Bug ticket with status &quot;In test&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FF3333,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="4580" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-262" value="Bug ticket with status &quot;Done&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FF3333,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="4850" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-267" value="Initative" parent="0" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-18" value="Initiative jira ticket in Status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-267">
+          <mxGeometry x="-110" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-267" source="JK_t3SRdudCWYbcd_Vwk-20" target="JK_t3SRdudCWYbcd_Vwk-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-267" source="JK_t3SRdudCWYbcd_Vwk-74" target="JK_t3SRdudCWYbcd_Vwk-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="150" />
+              <mxPoint x="220" y="150" />
+              <mxPoint x="220" y="245" />
+              <mxPoint x="140" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-74" value="Existing Initiative Jira ticket in Status&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;In progress&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#FFFF99,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-267">
+          <mxGeometry x="80" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-277" value="Epic" parent="0" />
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-91" target="JK_t3SRdudCWYbcd_Vwk-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-95" value="Epic ticket for the client in status &quot;In IT design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="1650" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-79" value="Epic ticket for the client in status &quot;To IT Design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="1120" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" target="JK_t3SRdudCWYbcd_Vwk-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-69" value="Epic ticket for the client in status &quot;Collect&lt;br&gt;requirements&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="760" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-68" target="JK_t3SRdudCWYbcd_Vwk-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-56" value="Epic ticket for the client in status &quot;New&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="80" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-50" target="JK_t3SRdudCWYbcd_Vwk-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-100" target="JK_t3SRdudCWYbcd_Vwk-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-102" value="Epic ticket for the client in status &quot;To IT Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="2010" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-108" target="JK_t3SRdudCWYbcd_Vwk-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-109" value="Epic ticket for the client + process in status &quot;In IT design&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="2010" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-140" value="Epic ticket for the client + process in status &quot;To IT development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="2180" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-136" target="JK_t3SRdudCWYbcd_Vwk-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-154" value="Epic ticket for the client + process in status &quot;In Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3200" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-152" value="Epic ticket for the client in status &quot;In Development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3270" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" target="JK_t3SRdudCWYbcd_Vwk-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3250" y="290" as="sourcePoint" />
+            <mxPoint x="3270" y="191.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-187" value="Epic ticket for the client in status &quot;To DAT testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3430" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.267;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-151" target="JK_t3SRdudCWYbcd_Vwk-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-188" value="Epic ticket for the client + process in status &quot;To DAT testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3420" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-196" value="Epic ticket for the client + process in status &quot;In DAT testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3620" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-191" target="JK_t3SRdudCWYbcd_Vwk-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-195" value="Epic ticket for the client in status &quot;In DAT testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3630" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3680" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-199" target="JK_t3SRdudCWYbcd_Vwk-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-230" value="Epic ticket for the client in status &quot;To Key user testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4110" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-206" target="JK_t3SRdudCWYbcd_Vwk-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-210" value="Epic ticket for the client in status &quot;To IT development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4110" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-235" value="Epic ticket for the client in status &quot;In Key user testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4430" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-202" target="JK_t3SRdudCWYbcd_Vwk-235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-216" value="Epic ticket for the client in status &quot;In IT development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4370" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-214" target="JK_t3SRdudCWYbcd_Vwk-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-222" value="Epic ticket for the client in status &quot;To DAT testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4580" y="550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-220" target="JK_t3SRdudCWYbcd_Vwk-222">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-202" target="JK_t3SRdudCWYbcd_Vwk-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-236" value="Epic ticket for the client + process in status &quot;In Key user testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4430" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-231" value="Epic ticket for the client + process in status &quot;To Key user testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4110" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-199" target="JK_t3SRdudCWYbcd_Vwk-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-206" target="JK_t3SRdudCWYbcd_Vwk-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-211" value="Epic ticket for the client + process in status &quot;To IT development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4110" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-217" value="Epic ticket for the client + process in status &quot;In IT development&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4370" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-214" target="JK_t3SRdudCWYbcd_Vwk-217">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-223" value="Epic ticket for the client + process in status &quot;To DAT testing&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4580" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-220" target="JK_t3SRdudCWYbcd_Vwk-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-239" value="Epic ticket for the client in status &quot;Ready for release&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4850" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-242" target="JK_t3SRdudCWYbcd_Vwk-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-240" value="Epic ticket for the client + process in status &quot;Ready for release&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4850" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-242" target="JK_t3SRdudCWYbcd_Vwk-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-251" value="Epic ticket for the client + process in status &quot;Done&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#E5CCFF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="5090" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-249" target="JK_t3SRdudCWYbcd_Vwk-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-250" value="Epic ticket for the client in status &quot;Done&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#B266FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="5090" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-249" target="JK_t3SRdudCWYbcd_Vwk-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-278" value="&amp;nbsp;Story ticket &quot;Backend setup&quot; in status &quot;To Do&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3220" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-279" value="&amp;nbsp;Story ticket &quot;Front end&quot; in status &quot;To Do&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#CCFF99,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="3200" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-130" target="JK_t3SRdudCWYbcd_Vwk-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-130" target="JK_t3SRdudCWYbcd_Vwk-279">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3230" y="390" />
+              <mxPoint x="3180" y="390" />
+              <mxPoint x="3180" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-130" target="JK_t3SRdudCWYbcd_Vwk-278">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-286" value="Testplan ticket in status &quot;In progress&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4110" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-199" target="JK_t3SRdudCWYbcd_Vwk-286">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-288" value="Testplan ticket in status &quot;In progress&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4440" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-202" target="JK_t3SRdudCWYbcd_Vwk-288">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-290" value="Testplan ticket in status &quot;Done&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=light-dark(#6666FF,var(--ge-dark-color, #121212));" vertex="1" parent="JK_t3SRdudCWYbcd_Vwk-277">
+          <mxGeometry x="4850" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-291" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JK_t3SRdudCWYbcd_Vwk-277" source="JK_t3SRdudCWYbcd_Vwk-242" target="JK_t3SRdudCWYbcd_Vwk-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JK_t3SRdudCWYbcd_Vwk-292" value="Story" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
